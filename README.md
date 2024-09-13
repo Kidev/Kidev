@@ -8,9 +8,9 @@ ____
 > ➤ Modding that quickly lead to systems administration: hosting HLDS, TeamSpeak, Joomla on Debian dedicated servers from [OVH](https://www.ovhcloud.com/)
 > ➤ Website configuration and development of a custom shop (Allopass+Paypal) that helped me pay for the servers rent ($50 per month was over my middle school budget)
 
->Free or paid freelance consulting at times:
-> ➤ General help/debug/otpimizations of C#/Unity code to help friends that develop [a game I like](https://beta.legiontd2.com/)
-> ➤ Cloud engineering on [AWS](https://aws.amazon.com/) and web development (Django) to help a friend getting started in her tatoo salon business
+>Free or paid freelance consulting at times:  
+> ➤ General help/debug/otpimizations of C#/Unity code to help friends that develop [a game I like](https://beta.legiontd2.com/)  
+> ➤ Cloud engineering on [AWS](https://aws.amazon.com/) and web development (Django) to help a friend getting started in her tatoo salon business  
 > ➤ OSS advocate and contributor to the ecosystem as much as I'm able to
 ____
 >Worked at [SGCIB](https://wholesale.banking.societegenerale.com/) and developed in JS the original protytype of [Match-my-trade](https://tradematch.sgmarkets.com/whiteapp/#/matchmytrade)
