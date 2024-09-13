@@ -4,9 +4,9 @@ ____
 >Certified [EPITA](https://www.epita.fr/) engineer ([CTI](https://www.cti-commission.fr/)) in real time and critical systems, cybersecurity and embedded systems
 >Fluent in **C, C++, JS, Python**. Very experienced in **Ada (SPARK), C#, Java, Lua, PHP**. Good at firmware (kernel modules) and FPGA programming (VHDL)
 ____
->15 years of experience and practice in the wild with Kidev.org:
-> ➤ Modding that quickly lead to systems administration: hosting HLDS, TeamSpeak, Joomla on Debian dedicated servers from [OVH](https://www.ovhcloud.com/)
-> ➤ Website configuration and development of a custom shop (Allopass+Paypal) that helped me pay for the servers rent ($50 per month was over my middle school budget)
+>15 years of experience and practice in the wild with Kidev.org:  
+> ➤ Modding that quickly lead to systems administration: hosting HLDS, TeamSpeak, Joomla on Debian dedicated servers from [OVH](https://www.ovhcloud.com/)  
+> ➤ Website configuration and development of a custom shop (Allopass+Paypal) that helped me pay for the servers rent ($50 per month was over my middle school budget)  
 
 >Free or paid freelance consulting at times:  
 > ➤ General help/debug/otpimizations of C#/Unity code to help friends that develop [a game I like](https://beta.legiontd2.com/)  
