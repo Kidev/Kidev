@@ -1,7 +1,7 @@
 **French certified engineer, obsessive learner, detail oriented problem solver, top tier pattern matcher ♾️**  
 *Currently getting better at Rust 🦀 and building the [modding framework](https://github.com/LegionTD2-Modding) for [AutoAttackGames' Legion TD 2](https://beta.legiontd2.com/) on my spare time*  
 
-➢ Certified [EPITA](https://www.epita.fr/) engineer ([CTI EUR-ACE®](https://www.epita.fr/en/labels-certifications-partners/)) in cybersecurity, embedded real time and critical systems
+➢ Certified [EPITA](https://www.epita.fr/) engineer ([CTI EUR-ACE®](https://www.epita.fr/en/labels-certifications-partners/)) in cybersecurity, embedded real time and critical systems  
 ➢ Fluent in **C, C++, JS, Python**; very experienced in Ada (SPARK), C#, Java, Lua, PHP; good at FPGA programming (VHDL), driver (linux kernel modules) and firmware develpment 
 ____
 <details>
