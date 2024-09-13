@@ -1,7 +1,7 @@
 **French certified engineer, obsessive learner, detail oriented grinder, top tier pattern matcher 🧩**  [www.kidev.org](https://www.kidev.org) 🇫🇷 🇬🇧  
-*Currently learning Rust 🦀 and building the [modding framework](https://github.com/LegionTD2-Modding) for [AutoAttackGames' Legion TD 2](https://beta.legiontd2.com/) on my spare time*
+*Currently getting better at Rust 🦀 and building the [modding framework](https://github.com/LegionTD2-Modding) for [AutoAttackGames' Legion TD 2](https://beta.legiontd2.com/) on my spare time*
 ____
->Graduated [EPITA](https://www.epita.fr/) engineer in real time and critical systems, cybersecurity and embedded systems (kernel, firmware, vhdl...)
+>Certified [EPITA](https://www.epita.fr/) engineer (CTI) in real time and critical systems, cybersecurity and embedded systems (kernel, firmware, vhdl...)
 
 >15 years of hands on experience: modding, old school systems administration [OVH](https://www.ovhcloud.com/), web development, cloud engineering [AWS](https://aws.amazon.com/)
 
