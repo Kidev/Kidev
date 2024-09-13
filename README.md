@@ -1,4 +1,5 @@
-**French certified engineer, obsessive learner, detail oriented and top tier pattern matcher 🧩**  [www.kidev.org](https://www.kidev.org) 🇫🇷 🇬🇧 
+**French certified engineer, obsessive learner, detail oriented and top tier pattern matcher 🧩**  [www.kidev.org](https://www.kidev.org) 🇫🇷 🇬🇧  
+Currently learning Rust 🦀 and building the [modding framework](https://github.com/LegionTD2-Modding) for [AutoAttackGames Legion TD 2](https://beta.legiontd2.com/) on my spare time
 ____
 >Graduated [EPITA](https://www.epita.fr/) engineer in real time and critical systems, cybersecurity and embedded systems (kernel, firmware, vhdl...)
 
@@ -13,5 +14,3 @@ ____
 > ➤ Created CMake presets, Makefiles, Bash and Python tools as well as documentation to help new developers get started quickly  
 > ➤ Engineered the CI pipeline from scratch using Github Actions: PR logic with auto checks and tests, auto build for Windows+Linux+macOS, Slack bots, installer wizard  
 > ➤ Established and managed the company’s AWS and GitHub account (introduced SAML, managed IAM, CloudWatch, Billing Conductor, RDS, EC2, VPC)  
-
-Currently learning Rust 🦀 and building the [modding framework](https://github.com/LegionTD2-Modding) for [AutoAttackGames Legion TD 2](https://beta.legiontd2.com/) on my spare time
