@@ -10,6 +10,6 @@ ____
 >- Engineered the CI pipeline from scratch using Github Actions: PR logic with auto checks and tests, auto build for Windows+Linux+macOS, Slack bots, installer wizard
 >- Established and managed the company’s AWS and GitHub account (introduced SAML, managed IAM, CloudWatch, Billing Conductor, RDS, EC2, VPC)
 
-Currently learning Rust 🦀 and building the [modding framework](https://github.com/LegionTD2-Modding) for @[AutoAttackGames Legion TD 2](https://beta.legiontd2.com/) on my spare time
+Currently learning Rust 🦀 and building the [modding framework](https://github.com/LegionTD2-Modding) for [AutoAttackGames Legion TD 2](https://beta.legiontd2.com/) on my spare time
 
 *arch (btw), i3, nvim enjoyer*
