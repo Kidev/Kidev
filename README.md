@@ -2,7 +2,7 @@
 *Currently getting better at Rust 🦀 and building the [modding framework](https://github.com/LegionTD2-Modding) for [AutoAttackGames' Legion TD 2](https://beta.legiontd2.com/) on my spare time*  
 
 ➢ Certified [EPITA](https://www.epita.fr/) engineer ([CTI](https://www.cti-commission.fr/)) in real time and critical systems, cybersecurity and embedded systems  
-➣ Fluent in **C, C++, JS, Python**; very experienced in Ada (SPARK), C#, Java, Lua, PHP; good at FPGA programming (VHDL), driver (linux kernel modules) and firmware develpment 
+➢ Fluent in **C, C++, JS, Python**; very experienced in Ada (SPARK), C#, Java, Lua, PHP; good at FPGA programming (VHDL), driver (linux kernel modules) and firmware develpment 
 ____
 <details>
   <summary>15 years of experience and practice in the wild with <a href="https://www.kidev.org">Kidev.org</a></summary>
