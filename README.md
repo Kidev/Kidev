@@ -1,6 +1,7 @@
 **French engineer, obsessive learner, detail oriented problem solver, top tier pattern matcher ♾️**  
 *Currently getting better at Rust 🦀 and building the [modding framework](https://github.com/LegionTD2-Modding) for [AutoAttackGames' Legion TD 2](https://beta.legiontd2.com/) on my spare time*  
 
+____ 
 <details>
   <summary>15 years of experience and practice in the wild with <a href="https://www.kidev.org">Kidev.org</a></summary>
 - Modding that quickly lead to systems administration: hosting HLDS, TeamSpeak, Joomla on Debian dedicated servers from <a href="https://www.ovhcloud.com/">OVH</a></br>  
