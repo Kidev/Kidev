@@ -26,7 +26,7 @@ ____
 - Created CMake presets, Makefiles, Bash and Python tools as well as documentation to help new developers get started quickly</br>    
 - Engineered the CI pipeline from scratch using Github Actions: PR logic with auto checks and tests, auto build for Windows+Linux+macOS, Slack bots, installer wizard</br>    
 - Established and administered the company’s AWS and GitHub account (IAM, CloudWatch, Billing Conductor, RDS, EC2, S3, VPC, CloudFront)</br>   
-- Pushed for good cybersecurity practices in a zero trust paradigm
+- Pushed for good cybersecurity practices (SAML SSO, permission granularity, zero trust...)
 </details>  
 
 ____  
