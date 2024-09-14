@@ -10,8 +10,8 @@ ____
 
 <details>
   <summary>Free or paid freelance consulting at times</summary>  
-- General help/debug/otpimizations of C#/Unity code to help friends that develop <a href="https://beta.legiontd2.com/">game I like</a></br>    
-- Cloud engineering on <a href="https://aws.amazon.com/">AWS</a> and web development (Django) to help a friend getting started in her tatoo salon business</br>    
+- General help/debug/otpimizations/netcode improvment of C# Unity code using MS Azure Functions: I wanted to help friends that develop <a href="https://beta.legiontd2.com/">a game I like</a></br>    
+- Cloud engineering on <a href="https://aws.amazon.com/">AWS</a>, VPS sysadmin on <a href="https://www.ovhcloud.com/">OVH</a>, and web development (Django) to help a friend getting started in her tatoo salon business</br>    
 - OSS advocate and contributor to the ecosystem as much as I'm able to</br>  
 </details>
 
@@ -25,7 +25,8 @@ ____
 - Development of a software suite: research (geometry, linear algebra), development (C++ Qt/QML) and project managenemt</br>    
 - Created CMake presets, Makefiles, Bash and Python tools as well as documentation to help new developers get started quickly</br>    
 - Engineered the CI pipeline from scratch using Github Actions: PR logic with auto checks and tests, auto build for Windows+Linux+macOS, Slack bots, installer wizard</br>    
-- Established and managed the company’s AWS and GitHub account (introduced SAML, managed IAM, CloudWatch, Billing Conductor, RDS, EC2, VPC)</br>   
+- Established and administered the company’s AWS and GitHub account (IAM, CloudWatch, Billing Conductor, RDS, EC2, S3, VPC, CloudFront)</br>   
+- Pushed for good cybersecurity practices in a zero trust paradigm
 </details>  
 
 ____  
