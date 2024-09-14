@@ -1,9 +1,6 @@
-**French certified engineer, obsessive learner, detail oriented problem solver, top tier pattern matcher ♾️**  
+**French engineer, obsessive learner, detail oriented problem solver, top tier pattern matcher ♾️**  
 *Currently getting better at Rust 🦀 and building the [modding framework](https://github.com/LegionTD2-Modding) for [AutoAttackGames' Legion TD 2](https://beta.legiontd2.com/) on my spare time*  
 
-➢ Graduate Engineer ([EPITA CTI EUR-ACE®](https://www.epita.fr/en/labels-certifications-partners/)) in cybersecurity, embedded real time and critical systems  
-➢ Fluent in **C, C++, JS, Python**; very experienced in Ada (SPARK), C#, Java, Lua, PHP; good at FPGA programming (VHDL), driver (linux kernel modules) and firmware develpment 
-____
 <details>
   <summary>15 years of experience and practice in the wild with <a href="https://www.kidev.org">Kidev.org</a></summary>
 - Modding that quickly lead to systems administration: hosting HLDS, TeamSpeak, Joomla on Debian dedicated servers from <a href="https://www.ovhcloud.com/">OVH</a></br>  
@@ -18,14 +15,18 @@ ____
 </details>
 
 <details>
-  <summary>Worked at <a href="https://wholesale.banking.societegenerale.com">SGCIB</a></summary> 
+  <summary>Software engineer creating a FinTech web service @ <a href="https://wholesale.banking.societegenerale.com">SGCIB</a></summary> 
 - Developed in Java+JS the original protytype of <a href="https://youtu.be/eDjSM_WZKpY?si=MRavp-gGeKh7cL2P">Match my View</a>, a tool to help anyone by the correct derivatives associated with their underlying and their view</br>  
 </details>
 
 <details>
-  <summary>Worked for 5 years at <a href="https://www.constructions-3d.com">Constructions-3D</a></summary>
+  <summary>Lead software engineer for 5 years @ <a href="https://www.constructions-3d.com">Constructions-3D</a></summary>
 - Development of a software suite: research (geometry, linear algebra), development (C++ Qt/QML) and project managenemt</br>    
 - Created CMake presets, Makefiles, Bash and Python tools as well as documentation to help new developers get started quickly</br>    
 - Engineered the CI pipeline from scratch using Github Actions: PR logic with auto checks and tests, auto build for Windows+Linux+macOS, Slack bots, installer wizard</br>    
 - Established and managed the company’s AWS and GitHub account (introduced SAML, managed IAM, CloudWatch, Billing Conductor, RDS, EC2, VPC)</br>   
 </details>  
+
+____  
+➢ Graduate Engineer ([EPITA CTI EUR-ACE®](https://www.epita.fr/en/labels-certifications-partners/)) in cybersecurity, embedded real time and critical systems  
+➢ Fluent in **C, C++, JS, Python**; very experienced in Ada (SPARK), C#, Java, Lua, PHP; good at FPGA programming (VHDL), driver (linux kernel modules) and firmware develpment 
