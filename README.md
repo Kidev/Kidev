@@ -31,4 +31,5 @@ ____
 
 ____  
 ➢ Graduate Engineer ([EPITA CTI EUR-ACE®](https://www.epita.fr/en/labels-certifications-partners/)) in cybersecurity, embedded real time and critical systems  
-➢ Fluent in **C, C++, JS, Python**; very experienced in Ada (SPARK), C#, Java, Lua, PHP; good at FPGA programming (VHDL), driver (linux kernel modules) and firmware develpment 
+➢ Fluent in **C, C++, JS, Python**; very experienced in Ada (SPARK), C#, Java, Lua, PHP; good at FPGA programming (VHDL), driver (linux kernel modules) and firmware develpment  
+*i use arch+i3 and nvim btw*
