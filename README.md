@@ -1,4 +1,4 @@
-**French engineer, obsessive learner, detail oriented problem solver, top tier pattern matcher ♾️**  
+**French engineer, obsessive learner, detail oriented problem solver ♾️**  
 *Currently getting better at Rust 🦀 and building the [modding framework](https://github.com/LegionTD2-Modding) for [AutoAttackGames' Legion TD 2](https://beta.legiontd2.com/) on my spare time*  
 
 ____ 
