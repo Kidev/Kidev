@@ -1,6 +1,5 @@
 **French engineer, obsessive learner, detail oriented problem solver ♾️**  
-*Creator of the QML web framework [SynQt](https://github.com/Kidev/SynQt)*  
-*Actively contributing to [aqtinstall](https://github.com/miurahr/aqtinstall) and [install-qt-action](https://github.com/jurplel/install-qt-action)*  
+*Creator of the QML web framework [SynQt](https://github.com/Kidev/SynQt), actively contributing to [aqtinstall](https://github.com/miurahr/aqtinstall) and [install-qt-action](https://github.com/jurplel/install-qt-action)*  
 ____ 
 <details>
   <summary>15 years of experience and practice in the wild with <a href="https://www.kidev.org">Kidev.org</a></summary>
